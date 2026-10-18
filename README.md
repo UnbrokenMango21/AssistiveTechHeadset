@@ -22,7 +22,7 @@ Click any card to open its **original video**. All three clips are hosted in thi
 </tr>
 </table>
 
-> **Video playback:** GitHub may open a preview or offer the original MOV file for download, depending on your browser. The clips have not been recreated or simulated. [Open all project media in the repository](../../tree/main).
+> **Video playback:** GitHub may open a preview or offer the original MOV file for download, depending on your browser. The clips have not been recreated or simulated. [Open all project media in the repository](https://github.com/UnbrokenMango21/AssistiveTechHeadset/tree/main).
 
 ## Why we built it
 
